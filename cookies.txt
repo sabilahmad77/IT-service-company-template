@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+growhub.themepul.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+growhub.themepul.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_8ac4169c66c28cbc099d091ed939c1e4	t_e7b34c4bb4e04170afc926d29be23e%7C%7C1710701614%7C%7C1710698014%7C%7Cbb892412fceb04613d18568936b94d9d
+growhub.themepul.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	77072616b1f540bc16f10c2588fc83a1
+growhub.themepul.com	TRUE	/	FALSE	1999999999	woocommerce_recently_viewed	5013%7C5014%7C5018%7C5011%7C5017%7C5016%7C5012%7C5010%7C5015%7C5019%7C4970%7C5009%7C5020
+

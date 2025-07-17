@@ -1,0 +1,139 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 15 Mar 2024 23:38:03 at https://growhub.themepul.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://growhub.themepul.com/ -O1 "C:\My Web Sites\newest green" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:54:56	Warning: 	Found for https://growhub.themepul.com/checkout/
+23:54:56	Warning: 	File has moved from https://growhub.themepul.com/checkout/ to https://growhub.themepul.com/cart/
+23:56:52	Error: 	"Not Found" (404) at link https://growhub.themepul.com/wp-content/plugins/growhub-core/assets/css/owl.video.play.png (from https://growhub.themepul.com/wp-content/plugins/growhub-core/assets/css/owl.css?ver=1.0.1)
+23:56:52	Error: 	"Not Found" (404) at link https://growhub.themepul.com/wp-content/plugins/growhub-core/assets/images/cross-out.png (from https://growhub.themepul.com/wp-content/plugins/growhub-core/assets/css/owl.css?ver=1.0.1)
+23:56:53	Error: 	"Not Found" (404) at link https://growhub.themepul.com/Trident/ (from https://growhub.themepul.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.20.1)
+23:57:01	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=1641
+23:57:01	Warning: 	File has moved from https://growhub.themepul.com/?p=1641 to https://growhub.themepul.com/home-two/
+23:57:07	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=1813
+23:57:07	Warning: 	File has moved from https://growhub.themepul.com/?p=1813 to https://growhub.themepul.com/home-three/
+23:57:07	Warning: 	Retry after error -2 (Receive Time Out) at link https://growhub.themepul.com/wp-content/uploads/2023/12/slider-2-home-3.jpg (from https://growhub.themepul.com/home-three/)
+23:57:20	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=1550
+23:57:20	Warning: 	File has moved from https://growhub.themepul.com/?p=1550 to https://growhub.themepul.com/about-us/
+23:57:20	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=4729
+23:57:20	Warning: 	File has moved from https://growhub.themepul.com/?p=4729 to https://growhub.themepul.com/about-two/
+23:57:20	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=4734
+23:57:20	Warning: 	File has moved from https://growhub.themepul.com/?p=4734 to https://growhub.themepul.com/about-three/
+23:57:21	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=1556
+23:57:21	Warning: 	File has moved from https://growhub.themepul.com/?p=1556 to https://growhub.themepul.com/services/
+23:57:22	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=4742
+23:57:22	Warning: 	File has moved from https://growhub.themepul.com/?p=4742 to https://growhub.themepul.com/services-2/
+23:57:22	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=4743
+23:57:22	Warning: 	File has moved from https://growhub.themepul.com/?p=4743 to https://growhub.themepul.com/services-three/
+23:57:22	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=2144
+23:57:22	Warning: 	File has moved from https://growhub.themepul.com/?p=2144 to https://growhub.themepul.com/services/consulting-services/
+23:57:22	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=2141
+23:57:22	Warning: 	File has moved from https://growhub.themepul.com/?p=2141 to https://growhub.themepul.com/services/digital-business-solution/
+23:57:22	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=2082
+23:57:22	Warning: 	File has moved from https://growhub.themepul.com/?p=2082 to https://growhub.themepul.com/services/digital-strategy-planning/
+23:57:22	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=2142
+23:57:22	Warning: 	File has moved from https://growhub.themepul.com/?p=2142 to https://growhub.themepul.com/services/financial-consultancy/
+23:57:22	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=2143
+23:57:22	Warning: 	File has moved from https://growhub.themepul.com/?p=2143 to https://growhub.themepul.com/services/strategy-development/
+23:57:22	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=2455
+23:57:22	Warning: 	File has moved from https://growhub.themepul.com/?p=2455 to https://growhub.themepul.com/appointment/
+23:57:22	Warning: 	Retry after error -4 (Incorrect length (133365 Bytes, 315733 expected)) at link https://growhub.themepul.com/wp-content/uploads/2023/11/team-contact.jpg (from https://growhub.themepul.com/appointment/)
+23:57:27	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=1794
+23:57:27	Warning: 	File has moved from https://growhub.themepul.com/?p=1794 to https://growhub.themepul.com/pricing/
+23:57:27	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=1554
+23:57:27	Warning: 	File has moved from https://growhub.themepul.com/?p=1554 to https://growhub.themepul.com/projects/
+23:57:46	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=154
+23:57:46	Warning: 	File has moved from https://growhub.themepul.com/?p=154 to https://growhub.themepul.com/growhub-portfolio/manage-client-hub/
+23:57:46	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=2411
+23:57:46	Warning: 	File has moved from https://growhub.themepul.com/?p=2411 to https://growhub.themepul.com/team-one/
+23:57:46	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=4757
+23:57:46	Warning: 	File has moved from https://growhub.themepul.com/?p=4757 to https://growhub.themepul.com/team-two/
+23:57:46	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=1048
+23:57:46	Warning: 	File has moved from https://growhub.themepul.com/?p=1048 to https://growhub.themepul.com/growhub-team/monia-zillan/
+00:00:05	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=5016
+00:00:05	Warning: 	File has moved from https://growhub.themepul.com/?p=5016 to https://growhub.themepul.com/product/power-supply/
+00:00:54	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=4968
+00:00:54	Warning: 	File has moved from https://growhub.themepul.com/?p=4968 to https://growhub.themepul.com/my-account/
+00:01:05	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=5036
+00:01:05	Warning: 	File has moved from https://growhub.themepul.com/?p=5036 to https://growhub.themepul.com/cart/
+00:01:51	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=31
+00:01:51	Warning: 	File has moved from https://growhub.themepul.com/?p=31 to https://growhub.themepul.com/a-corporate-guide-to-continuous-improvement/
+00:01:51	Error: 	"Method Not Allowed" (405) at link https://growhub.themepul.com/xmlrpc.php (from https://growhub.themepul.com/a-corporate-guide-to-continuous-improvement/)
+00:01:52	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=1552
+00:01:52	Warning: 	File has moved from https://growhub.themepul.com/?p=1552 to https://growhub.themepul.com/contact-us/
+00:01:52	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=1044
+00:01:52	Warning: 	File has moved from https://growhub.themepul.com/?p=1044 to https://growhub.themepul.com/growhub-team/ambert-daniel/
+00:01:52	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=1047
+00:01:52	Warning: 	File has moved from https://growhub.themepul.com/?p=1047 to https://growhub.themepul.com/growhub-team/latina-lucas/
+00:01:52	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=972
+00:01:52	Warning: 	File has moved from https://growhub.themepul.com/?p=972 to https://growhub.themepul.com/growhub-team/mauser-daniel/
+00:01:52	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=96
+00:01:52	Warning: 	File has moved from https://growhub.themepul.com/?p=96 to https://growhub.themepul.com/growhub-portfolio/business-growth/
+00:01:52	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=147
+00:01:52	Warning: 	File has moved from https://growhub.themepul.com/?p=147 to https://growhub.themepul.com/growhub-portfolio/startup-solution/
+00:01:52	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=148
+00:01:52	Warning: 	File has moved from https://growhub.themepul.com/?p=148 to https://growhub.themepul.com/growhub-portfolio/growth-manage/
+00:01:52	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=149
+00:01:52	Warning: 	File has moved from https://growhub.themepul.com/?p=149 to https://growhub.themepul.com/growhub-portfolio/corporate-startup/
+00:01:52	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=14
+00:01:52	Warning: 	File has moved from https://growhub.themepul.com/?p=14 to https://growhub.themepul.com/exploring-the-full-spectrum-of-digital-marketings-influence-and-impact-in-the-21st/
+00:01:57	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=26
+00:01:57	Warning: 	File has moved from https://growhub.themepul.com/?p=26 to https://growhub.themepul.com/delivering-memorable-and-building-brand-the-company-loyalty-zone/
+00:01:59	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=27
+00:01:59	Warning: 	File has moved from https://growhub.themepul.com/?p=27 to https://growhub.themepul.com/mastery-of-creative-problem-solving-in-your-startup-office-business-plan/
+00:02:00	Error: 	"Not Found" (404) at link https://growhub.themepul.com/-negative.svg (from https://growhub.themepul.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.20.1)
+00:02:00	Error: 	"Not Found" (404) at link https://growhub.themepul.com/OPR/ (from https://growhub.themepul.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.20.1)
+00:02:00	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=1046
+00:02:00	Warning: 	File has moved from https://growhub.themepul.com/?p=1046 to https://growhub.themepul.com/growhub-team/daniel-smith/
+00:02:00	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=1045
+00:02:00	Warning: 	File has moved from https://growhub.themepul.com/?p=1045 to https://growhub.themepul.com/growhub-team/milano-digits/
+00:02:00	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=150
+00:02:00	Warning: 	File has moved from https://growhub.themepul.com/?p=150 to https://growhub.themepul.com/growhub-portfolio/product-testing/
+00:02:00	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=151
+00:02:00	Warning: 	File has moved from https://growhub.themepul.com/?p=151 to https://growhub.themepul.com/growhub-portfolio/business-plan/
+00:02:00	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=152
+00:02:00	Warning: 	File has moved from https://growhub.themepul.com/?p=152 to https://growhub.themepul.com/growhub-portfolio/corporate-strategy/
+00:02:00	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=153
+00:02:00	Warning: 	File has moved from https://growhub.themepul.com/?p=153 to https://growhub.themepul.com/growhub-portfolio/growth-your-business/
+00:02:00	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=5013
+00:02:00	Warning: 	File has moved from https://growhub.themepul.com/?p=5013 to https://growhub.themepul.com/product/14th-g-motherboard/
+00:02:20	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=5012
+00:02:20	Warning: 	File has moved from https://growhub.themepul.com/?p=5012 to https://growhub.themepul.com/product/1tb-m2-ssl/
+00:02:32	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=5014
+00:02:32	Warning: 	File has moved from https://growhub.themepul.com/?p=5014 to https://growhub.themepul.com/product/cooling-fan/
+00:02:47	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=5010
+00:02:47	Warning: 	File has moved from https://growhub.themepul.com/?p=5010 to https://growhub.themepul.com/product/digital-camara-v5/
+00:02:53	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=5015
+00:02:53	Warning: 	File has moved from https://growhub.themepul.com/?p=5015 to https://growhub.themepul.com/product/symphony-sound-pro-20/
+00:03:00	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=5018
+00:03:00	Warning: 	File has moved from https://growhub.themepul.com/?p=5018 to https://growhub.themepul.com/product/latest-cpu/
+00:03:05	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=5009
+00:03:05	Warning: 	File has moved from https://growhub.themepul.com/?p=5009 to https://growhub.themepul.com/product/microphone-stand/
+00:03:18	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=5019
+00:03:18	Warning: 	File has moved from https://growhub.themepul.com/?p=5019 to https://growhub.themepul.com/product/smart-phone/
+00:03:22	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=5011
+00:03:22	Warning: 	File has moved from https://growhub.themepul.com/?p=5011 to https://growhub.themepul.com/product/smart-watch-10/
+00:03:29	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=4970
+00:03:29	Warning: 	File has moved from https://growhub.themepul.com/?p=4970 to https://growhub.themepul.com/product/symphony-sound-pro/
+00:03:37	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=5017
+00:03:37	Warning: 	File has moved from https://growhub.themepul.com/?p=5017 to https://growhub.themepul.com/product/wifi-speker/
+00:03:47	Warning: 	Moved Permanently for https://growhub.themepul.com/shop/page/1/
+00:03:47	Warning: 	File has moved from https://growhub.themepul.com/shop/page/1/ to https://growhub.themepul.com/shop/
+00:03:56	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=33
+00:03:56	Warning: 	File has moved from https://growhub.themepul.com/?p=33 to https://growhub.themepul.com/adapting-to-change-in-a-fast-paced-world/
+00:03:58	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=32
+00:03:58	Warning: 	File has moved from https://growhub.themepul.com/?p=32 to https://growhub.themepul.com/raising-the-bar-in-corporate-service-standards/
+00:03:58	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=30
+00:03:58	Warning: 	File has moved from https://growhub.themepul.com/?p=30 to https://growhub.themepul.com/strategies-for-employee-health-and-productivity/
+00:03:58	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=29
+00:03:58	Warning: 	File has moved from https://growhub.themepul.com/?p=29 to https://growhub.themepul.com/trends-shaping-corporate-decision-making/
+00:04:01	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=28
+00:04:01	Warning: 	File has moved from https://growhub.themepul.com/?p=28 to https://growhub.themepul.com/proven-strategies-for-sustainable-growth/
+00:04:20	Warning: 	Moved Permanently for https://growhub.themepul.com/?p=5020
+00:04:20	Warning: 	File has moved from https://growhub.themepul.com/?p=5020 to https://growhub.themepul.com/product/wireless-headphone/
+
+HTTrack Website Copier/3.49-2 mirror complete in 27 minutes 8 seconds : 1030 links scanned, 961 files written (65626099 bytes overall) [24492972 bytes received at 15044 bytes/sec], 53789409 bytes transferred using HTTP compression in 824 files, ratio 21%, 12.6 requests per connection
+(6 errors, 122 warnings, 0 messages)
